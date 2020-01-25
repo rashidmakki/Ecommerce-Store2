@@ -129,26 +129,18 @@ footer:hover
 	background-color:#1a1a1a;
 }
 
-	
-#signupbox{
-	position:absolute;
-    left: 50%;
-    width:30em;
-	margin-left: -15em;
-	padding: 10px;
-	
-}
 
 #signuphead{
 	font-weight:bold;
 	font-size:300%;
 	font-family:Cursive;
-	position:relative;
+	
 	left:120px;
 }
 
-#footerid{
-	
-	position:relative;
-	margin-top: 900px;
-}
+
+.for-bg{
+	background-image:url(../img/signup-background.jpg);
+	 background-size: cover; 
+	 background-attachment: fixed;
+	}
